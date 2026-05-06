@@ -291,7 +291,7 @@ const ModelTryItOutPage = () => {
                 </div>
             </section>
 
-            <section class="text-gray-300 bg-[#142F32] body-font">
+            {/* <section class="text-gray-300 bg-[#142F32] body-font">
                 <div class="container mx-auto flex px-5 py-16 items-center justify-center">
                     <div class="w-full max-w-4xl">
                         <div class="p-6 rounded-lg border-2 border-indigo-500 text-center">
@@ -330,7 +330,7 @@ const ModelTryItOutPage = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
 
 
 
