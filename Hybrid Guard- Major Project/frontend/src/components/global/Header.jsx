@@ -13,7 +13,7 @@ const Header = () => {
                     <NavLink to="/features" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>WORKING</NavLink>
                     <NavLink to="/about" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>ABOUT US</NavLink>
                     <NavLink to="/contact" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>CONTACTS</NavLink>
-                    <NavLink to="/blogs" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>BLOGS</NavLink>
+                    {/* <NavLink to="/blogs" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>BLOGS</NavLink> */}
                     <NavLink to="/faq" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>FAQs</NavLink>
                 </nav>
                 {/* <div className="flex justify-center">

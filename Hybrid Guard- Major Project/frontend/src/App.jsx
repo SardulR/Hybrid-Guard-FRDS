@@ -55,16 +55,16 @@ function App() {
       )
     },
     ,
-    {
-      path: "/blogs",
-      element: (
-        <div>
-          <Header />
-          <Blogs />
-          <Footer />
-        </div>
-      )
-    },
+    // {
+    //   path: "/blogs",
+    //   element: (
+    //     <div>
+    //       <Header />
+    //       <Blogs />
+    //       <Footer />
+    //     </div>
+    //   )
+    // },
     {
       path: "/faq",
       element: (
