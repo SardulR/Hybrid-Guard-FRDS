@@ -6,11 +6,11 @@ const Contact = () => {
             <section className="text-gray-600 bg-[#142F32] m-3 body-font relative">
                 <div className="container px-5 py-7 mx-auto flex sm:flex-nowrap flex-wrap">
                     <div className="lg:w-2/3 md:w-1/2 bg-gray-200 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
-                        <iframe width="100%" height="100%" className="absolute inset-0" frameborder="0" title="map" marginheight="0" marginwidth="0" scrolling="no" src="https://maps.google.com/maps?q=vadodara&t=&z=13&ie=UTF8&iwloc=&output=embed" ></iframe>
+                        <iframe width="100%" height="100%" className="absolute inset-0" frameborder="0" title="map" marginheight="0" marginwidth="0" scrolling="no" src="https://maps.google.com/maps?q=Ajay%20Kumar%20Garg%20Engineering%20College%20Ghaziabad&t=&z=13&ie=UTF8&iwloc=&output=embed" ></iframe>
                         <div className="bg-[#142F32] relative flex flex-wrap py-6 rounded shadow-md">
                             <div className="lg:w-1/2 px-6">
                                 <h2 className="title-font font-semibold text-white tracking-widest text-xs">ADDRESS</h2>
-                                <p className="text-stone-100 mt-1">Parul University, Vadodara, Gujarat - 391760</p>
+                                <p className="text-stone-100 mt-1">27th km Stone, Delhi-Meerut Expressway, Ghaziabad, Uttar Pradesh, 201009</p>
                             </div>
                             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                                 <h2 className="title-font font-semibold text-white tracking-widest text-xs">EMAIL</h2>

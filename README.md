@@ -1,4 +1,4 @@
-# Fraud Filter - Fake Product Detection System  
+# HybridGuard - Fake Product Detection System  
 
 **Fake Product Review Detection System 📌**  
 The **Fake Product Detection System** is a **machine learning-powered web application** that helps users identify whether a product has **genuine or manipulated reviews** on eCommerce platforms. It leverages **Natural Language Processing (NLP)** and **supervised learning models** to analyze reviews and detect fake ones.
@@ -42,7 +42,7 @@ The **Fake Product Detection System** is a **machine learning-powered web applic
 ## 📂 Project Directory Structure  
 
 ```sh
-FraudFilter - Minor Project/
+HybridGuard - Major Project/
 │── backend/
 │   ├── .venv/                     # Virtual environment (version = 3.13.2) 
 │   ├── ml/                        # ML-related scripts and utilities  
@@ -115,24 +115,7 @@ npm run dev
 #### 🚀 React app will run at http://localhost:5173/
 ---
 
-## 📸 Demo Screenshots  
 
-| **Interface** | **Preview** |
-|--------------|------------|
-| **HOME** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - HOME.png" width="200px"> |
-| **WORKING** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - WORKING.png" width="200px"> |
-| **ABOUT** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - ABOUT US.png" width="200px"> |
-| **CONTACTS** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - CONTACT.png" width="200px"> |
-| **BLOGS** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - BLOGS.png" width="200px"> |
-| **FAQ's** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - FAQs.png" width="200px"> |
-| **MODEL TRY PAGE** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - TryItOutPage.png" width="200px"> |
-| **USING CSV FILE** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - USING CSV FILE.png" width="200px"> |
-| **USING PRODUCT LINK** | <img src="FraudFilter - Minor Project/project_images/FraudFilter_demoImage - USING PRODUCT LINK.png" width="200px"> |
-
-
-📌 More detailed **UI screenshots** can be found in the project_images/ folder.
-
----
 
 ## Disclaimer
 

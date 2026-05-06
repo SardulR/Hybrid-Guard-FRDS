@@ -6,7 +6,7 @@ const Header = () => {
         <header className="bg-[#142F32]">
             <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center justify-around">
                 <a className="flex title-font font-medium items-center cursor-pointer mb-4 md:mb-0">
-                    <span className="ml-3 font-ananda font-bold text-4xl text-white cursor-pointer hover:text-[#E4FFCD]">Fraud Filter</span>
+                    <span className="ml-3 font-ananda font-bold text-4xl text-white cursor-pointer hover:text-[#E4FFCD]">Hybrid Guard</span>
                 </a>
                 <nav className=" flex flex-wrap items-center text-base font-sans font-bold justify-center text-stone-100 cursor-pointer">
                     <NavLink to="/" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>HOME</NavLink>
@@ -16,7 +16,7 @@ const Header = () => {
                     <NavLink to="/blogs" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>BLOGS</NavLink>
                     <NavLink to="/faq" className={({ isActive }) => isActive ? "mr-5 border-b-2 text-[#E4FFCD] border-red-500" : "mr-5 hover:text-[#1AA77E]"}>FAQs</NavLink>
                 </nav>
-                <div className="flex justify-center">
+                {/* <div className="flex justify-center">
                     <a
                         href='https://github.com/its-maneeshk/Fake-Product-Detection-System.git'
                         target='_blank'
@@ -27,7 +27,7 @@ const Header = () => {
                         </svg>
                         Visit GitHub
                     </a>
-                </div>
+                </div> */}
             </div>
         </header>
     )
